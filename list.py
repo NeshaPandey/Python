@@ -1,0 +1,9 @@
+l1=[1,3,6,2,5,89,67]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.append(8)
+print(l1)
+l1.pop(3)
+print(l1)
